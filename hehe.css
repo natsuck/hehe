@@ -1,3 +1,7 @@
+audio {
+  display: none; /* Hides the audio element including controls */
+}
+
 body {
     display: flex;
     justify-content: center;
